@@ -15,7 +15,7 @@ export default function Home() {
         <h1 style={{ fontSize: "48px", marginBottom: "16px" }}>
           Three Goats
         </h1>
-        <p style={{ fontSize: "20px", marginBottom: "24px" }}>
+        <p style={{ fontSize: "20px" }}>
           Something is coming.
         </p>
       </div>
