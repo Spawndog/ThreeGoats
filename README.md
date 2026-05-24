@@ -1,4 +1,4 @@
 \# ThreeGoats
 
-Three goats hosted source
+Three goats hosted webpage
 
